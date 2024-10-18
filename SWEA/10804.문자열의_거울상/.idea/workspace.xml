@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5fa2389-5b6f-42c6-8e95-eaa6e6e2b4f3" name="변경" comment="">
+      <change beforePath="$PROJECT_DIR$/../../settings.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/problem01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/problem02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/problem03.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/problem04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/problem05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/problem06.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/problem07.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/problem08.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/problem09.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/problem10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/problem11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../서울_4반_원기훈/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../원기훈 설정.code-profile" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2kE1XY0iEnOOovWMYgqpxJNj7ka" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.10804.문자열의_거울상 (1).executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.10804.문자열의_거울상 (1)">
+    <configuration name="10804.문자열의_거울상 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="10804.문자열의_거울상" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10804.문자열의_거울상.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10804.문자열의_거울상" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="10804.문자열의_거울상" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\SSAFY\Desktop\TIL\SWEA\10804.문자열의_거울상\10804.문자열의_거울상.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.10804.문자열의_거울상 (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="f5fa2389-5b6f-42c6-8e95-eaa6e6e2b4f3" name="변경" comment="" />
+      <created>1722833961324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722833961324</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/10804.문자열의_거울상.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

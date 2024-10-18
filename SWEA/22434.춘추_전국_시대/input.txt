@@ -1,0 +1,14 @@
+2
+7
+10 20 30 40 50 60 70
+5
+alliance A C
+alliance F C
+alliance D B
+alliance A F
+war D F
+3
+38481 86027 89663
+2
+war A B
+war B C

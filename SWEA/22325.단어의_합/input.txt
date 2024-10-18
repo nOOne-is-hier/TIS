@@ -1,0 +1,8 @@
+2
+2
+ABC
+DEF
+3
+AAAAA
+BBBDD
+CCA

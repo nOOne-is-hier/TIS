@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5556e295-b9a1-4d34-b854-9375ab899495" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../5585.거스름돈/5585.거스름돈.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240828_Tree_Day2/BST_주석추가.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240828_Tree_Day2/최대힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240828_Tree_Day2/최소힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240828_Tree_Day2/힙_라이브러리_활용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240829_start1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240829_start1/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240829_start1/output.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240829_start1/진수변환.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240829_start1/진수변환_추가.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240829_start1/표준입출력연습.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240830_start2/1.이진수표현_반복문.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240830_start2/2.이진수표현_비트연산.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240830_start2/3.무한대확인하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240830_start2/4.연습문제1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240830_start2/5.연습문제2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240830_start2/6.연습문제3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240830_start2/Live_비트연산연습.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240830_start2/Live_실수.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240902_완전탐색/0.live_code_경로출력하기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240902_완전탐색/0.live_code_재귀함수설계기본.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240902_완전탐색/1.중복순열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240902_완전탐색/2.중복순열과순열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240902_완전탐색/3.주사위의합_live_code_병합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240902_완전탐색/4.카드세장.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240902_완전탐색/5.[연습문제]Baby-gin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240903_부분집합_조합_그리디/1.부분집합_재귀.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240903_부분집합_조합_그리디/10.[연습문제3]부분집합의합.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240903_부분집합_조합_그리디/2.부분집합_바이너리카운팅.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240903_부분집합_조합_그리디/3.[도전]친구와카페방문.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240903_부분집합_조합_그리디/4.조합_재귀.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240903_부분집합_조합_그리디/5.[도전]주사위던지기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240903_부분집합_조합_그리디/6.그리디_동전교환.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240903_부분집합_조합_그리디/7.그리디_화장실.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240903_부분집합_조합_그리디/8.fractional_knapsack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240903_부분집합_조합_그리디/9.회의실배정.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240904_분할정복_이진검색/1.병합정렬.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240904_분할정복_이진검색/2.퀵정렬_hoare_partition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240904_분할정복_이진검색/3.퀵정렬_lomuto_partition.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240904_분할정복_이진검색/4.이진검색_반복문.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240904_분할정복_이진검색/5.이진검색_재귀.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240905_백트래킹응용_트리/1.백트래킹_기본구조.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240905_백트래킹응용_트리/2.백트래킹_예제1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240905_백트래킹응용_트리/3.백트래킹_예제2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240905_백트래킹응용_트리/4.NQueen_이차원visited.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240905_백트래킹응용_트리/5.NQueen_일차원visited.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240905_백트래킹응용_트리/6.트리저장_개발용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240905_백트래킹응용_트리/7.트리저장_문제풀이용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240905_백트래킹응용_트리/8.힙.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240906_문제풀이3/1486.장훈이의높은선반.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240906_문제풀이3/1861.정사각형방.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240906_문제풀이3/1861.정사각형방_DFS참고용.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240906_문제풀이3/1952.수영장_완탐.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240906_문제풀이3/2819.격자판의숫자이어붙이기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240906_문제풀이3/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240909_문제풀이4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240909_문제풀이4/.idea/20240909_문제풀이4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240909_문제풀이4/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240909_문제풀이4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240909_문제풀이4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240909_문제풀이4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240909_문제풀이4/12741.두전구.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240909_문제풀이4/20551.증가하는사탕수열.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240909_문제풀이4/4008.숫자만들기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240909_문제풀이4/5656.벽돌깨기.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/20240909_문제풀이4/참고_출력시간테스트.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../algorithm/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2lrY1miQ91E1Ve4pAJ43rSm6GSY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.13305.주유소.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.13305.주유소">
+    <configuration name="13305.주유소" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="13305.주유소" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/13305.주유소.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="13305.주유소" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.13305.주유소" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="5556e295-b9a1-4d34-b854-9375ab899495" name="변경" comment="" />
+      <created>1725939450277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725939450277</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/13305.주유소.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

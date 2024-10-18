@@ -1,0 +1,11 @@
+10
+enqueue 10
+enqueue 20
+enqueue 30
+front
+rear
+dequeue
+front
+rear
+isEmpty
+size
