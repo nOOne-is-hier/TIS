@@ -1,5 +1,5 @@
 '''
-통과 (0.19ms, 10.2MB)
+테스트 1 〉	통과 (0.19ms, 10.2MB)
 테스트 2 〉	통과 (0.26ms, 10.1MB)
 테스트 3 〉	통과 (0.22ms, 10.2MB)
 테스트 4 〉	통과 (5.66ms, 10.4MB)
@@ -39,37 +39,40 @@
 테스트 38 〉	통과 (1.68ms, 10MB)
 테스트 39 〉	통과 (99.23ms, 12MB)
 '''
-import sys
-
-sys.stdin = open('input.txt')
-
-
 def solution(distance, rocks, n):
+    # 바위 리스트를 정렬하고, 마지막에 목적지(distance)를 추가
     sorted_rocks = sorted(rocks) + [distance]
 
+    # 이진 탐색 범위를 0에서 distance까지 설정
     start, end = 0, distance
-    answer = 0
+    answer = 0  # 최종 답을 저장할 변수
 
+    # 이진 탐색 시작
     while start <= end:
-        mid = (start + end) // 2
-        current = 0
-        removed_rocks = 0
+        mid = (start + end) // 2  # 중간값을 설정 (바위 사이 최소 거리를 기준으로 탐색)
+        current = 0  # 현재 위치 (시작점에서부터 탐색)
+        removed_rocks = 0  # 제거한 바위의 수를 기록할 변수
 
+        # 모든 바위를 순회하면서 현재 중간값(mid)보다 작은 거리를 가진 바위를 제거
         for rock in sorted_rocks:
-            if rock - current < mid:
-                removed_rocks += 1
+            if rock - current < mid:  # 현재 바위와 이전 위치 간 거리가 중간값보다 작으면
+                removed_rocks += 1  # 바위를 제거하고 제거한 바위 수를 증가
             else:
-                current = rock
+                current = rock  # 거리가 충분하면, 현재 위치를 그 바위로 갱신
 
+            # 만약 제거한 바위가 n보다 많아지면 더 이상 진행할 필요 없음
             if removed_rocks > n:
                 break
 
+        # 제거한 바위 수가 n보다 많으면, 중간값(mid)이 너무 크므로 더 작은 범위에서 탐색
         if removed_rocks > n:
             end = mid - 1
+        # 그렇지 않으면, 중간값(mid)을 더 키워서 더 큰 최소 거리를 찾을 수 있는지 확인
         else:
-            answer = mid
+            answer = mid  # 현재 중간값을 답으로 기록
             start = mid + 1
 
-    return answer
+    return answer  # 최종적으로 구한 가장 큰 최소 거리 반환
 
+# 예시 입력: 거리 25, 바위 위치 [2, 14, 11, 21, 17], 제거 가능한 바위 2개
 print(solution(25, [2, 14, 11, 21, 17], 2))
