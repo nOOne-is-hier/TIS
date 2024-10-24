@@ -1,9 +1,10 @@
+# python 34,192KB	52ms
 import sys
 sys.stdin = open('input.txt')
 from collections import Counter
 
 delta = {7: '8', 6: '0', 5: '2', 4: '4', 3: '7', 2: '1'}
-sub_delta = {11: '02', 10: '22', 9: '81', 8: '01'}
+sub_delta = {13: '68', 11: '02', 10: '22', 9: '81', 8: '01'}
 
 
 def for_exceptions(num, multiplier, counter):
@@ -57,8 +58,18 @@ def find_min_case(num):
             min_case += number * sorted_count_numbers[number]
 
     # 0 처리
+    if len(min_case) >= 3 and all(x in min_case for x in ('2', '8')) and not '0' in min_case and min_case.count('2') > 1:
+        tmp_case = list(min_case)
+        tmp_case.remove('2')
+        tmp_case.remove('8')
+        tmp_case.append('0')
+        tmp_case.append('0')
+        tmp_case.sort()
+        min_case = ''.join(tmp_case)
+
     if min_case == '0':
         min_case = '6'
+
     elif min_case[0] == '0':
         min_case = list(min_case)
         for idx in range(1, len(min_case)):
@@ -76,8 +87,14 @@ def find_max_case(num):
     return max_case
 
 T = int(input())
+results = []
 for tc in range(T):
     N = int(input())
     min_case = find_min_case(N)
     max_case = find_max_case(N)
-    print(min_case, max_case)
+    results.append(min_case)
+    results.append(max_case)
+
+for idx in range(T):
+    print(f'{results[idx * 2]},', end=' ')
+    print(f'{results[idx * 2 + 1]},')

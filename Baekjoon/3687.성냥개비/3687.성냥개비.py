@@ -27,8 +27,8 @@ def find_min_case(num):
     for number in sorted_count_numbers:
         if sorted_count_numbers[number]:
             min_case += number * sorted_count_numbers[number]
-    if min_case == '0':
-        min_case = '6'
+    if min_case == '0' and len(min_case) <= 2:
+        min_case = '6' + min_case[1]
     elif min_case[0] == '0':
         min_case = list(min_case)
         for idx in range(1, len(min_case)):
