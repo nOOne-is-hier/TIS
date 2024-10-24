@@ -1,38 +1,43 @@
 import sys
-
 sys.stdin = open('input.txt')
+def mod_solve(T, cases):
+    MOD = 10 ** 9
+    results = []
 
-T = int(input())
-modulus = 10 ** 9
+    for case in cases:
+        A, B, C = case
 
-# 분할 정복을 위한 재귀 함수 정의
-def divide_and_conquer(left, right, A, B, C):
-    if left > right:
-        return -1
+        if A == 0:
+            if B == 0:
+                if C == 0:
+                    results.append(0)  # 모든 x에 대해 성립
+                else:
+                    results.append(-1)  # 해가 없음
+            else:
+                # Bx + C ≡ 0 (mod 10^9) -> x ≡ -C / B (mod 10^9)
+                if B % MOD == 0:
+                    results.append(-1)
+                else:
+                    x = (-C % MOD) * pow(B, -1, MOD) % MOD
+                    results.append(x)
+        else:
+            # A가 0이 아닌 경우, 이차 방정식을 풀어야 함
+            found = False
+            for x in range(MOD):
+                if (A * x * x + B * x + C) % MOD == 0:
+                    results.append(x)
+                    found = True
+                    break
+            if not found:
+                results.append(-1)  # 해가 없음
 
-    # 중앙값 계산
-    mid = (left + right) // 2
+    return results
 
-    # f(x) 계산
-    f_mid = A * mid ** 2 + B * mid + C
-    mod_result = f_mid % modulus
+# 입력 처리
+T = int(input())  # 테스트 케이스 수
+cases = [tuple(map(int, input().split())) for _ in range(T)]  # 테스트 케이스들 입력
 
-    # 나머지가 0인 경우 찾기
-    if mod_result == 0:
-        return mid
-
-    # 왼쪽 구간 탐색
-    left_result = divide_and_conquer(left, mid - 1, A, B, C)
-    if left_result != -1:
-        return left_result
-
-    # 오른쪽 구간 탐색
-    return divide_and_conquer(mid + 1, right, A, B, C)
-
-# 테스트 케이스 실행
-for tc in range(1, T + 1):
-    A, B, C = map(int, input().split())
-    left = 0
-    right = 10 ** 9
-    result = divide_and_conquer(left, right, A, B, C)
-    print(result)
+# 결과 출력
+results = mod_solve(T, cases)
+for res in results:
+    print(res)
