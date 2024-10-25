@@ -1,19 +1,13 @@
 def extended_gcd(a, b):
-    if b == 0:  # b가 0인 경우 처리
-        return abs(a), 1 if a > 0 else -1, 0
+    if b == 0:
+        return a, 1, 0
+    g, x1, y1 = extended_gcd(b, a % b)
+    x = y1
+    y = x1 - (a // b) * y1
+    return g, x, y
 
-    # 재귀 깊이를 제한하기 위해 반복문 사용
-    old_r, r = abs(a), abs(b)
-    old_s, s = 1, 0
-    old_t, t = 0, 1
-
-    while r:
-        quotient = old_r // r
-        old_r, r = r, old_r - quotient * r
-        old_s, s = s, old_s - quotient * s
-        old_t, t = t, old_t - quotient * t
-
-    return old_r, old_s * (1 if a > 0 else -1), old_t * (1 if b > 0 else -1)
+# safe_mod 함수는 필요하지 않음: Python의 정수는 overflow로부터 자유롭기 때문
+# 따라서 큰 수를 다루는 연산도 그대로 수행 가능
 
 
 def safe_mod(a, m):
@@ -23,28 +17,41 @@ def safe_mod(a, m):
 
 
 def crt(residues, moduli):
-    try:
-        x = 0
-        M = 1
-        for modulus in moduli:
-            if modulus <= 0:  # 음수 또는 0인 모듈러 처리
-                return -1
-            M *= modulus
+    x = 0
+    M = 1
 
-        for residue, modulus in zip(residues, moduli):
-            if M > 10 ** 18:  # 너무 큰 수 방지
-                return -1
-            m = M // modulus
-            try:
-                g, m_inverse, _ = extended_gcd(m, modulus)
-                if g != 1:
-                    return -1
-                x = safe_mod(x + residue * m * m_inverse, M)
-            except (OverflowError, ValueError):
-                return -1
-        return x
-    except Exception:  # 기타 예외 처리
-        return -1
+    # M 계산 (모든 모듈러의 곱)
+    for modulus in moduli:
+        if modulus <= 0:  # 음수 또는 0인 모듈러 처리
+            return -1
+        M *= modulus
+
+    for residue, modulus in zip(residues, moduli):
+        m = M // modulus
+        g, m_inverse, _ = extended_gcd(m, modulus)
+        if g != 1:
+            # 모듈러가 서로소가 아니면 해를 찾을 수 있는지 확인
+            if residue % g != 0:
+                return -1  # 해가 존재하지 않음
+            # 서로소가 아닌 경우, 공통 인수로 나눈 뒤 문제를 다시 설정
+            modulus //= g
+            residue //= g
+            m_inverse = extended_gcd(m // g, modulus)[1]  # 새로운 모듈러에 대한 역원 계산
+        # m_inverse는 m * m_inverse ≡ 1 (mod modulus)를 만족하는 값
+        x = (x + residue * m * m_inverse) % M
+
+    # 모든 가능한 경우에 대해 해를 찾음
+    possible_solutions = [x]
+    for residue, modulus in zip(residues, moduli):
+        new_solutions = []
+        for solution in possible_solutions:
+            for i in range(g):
+                candidate = (solution + i * (M // modulus)) % M
+                if candidate >= 0 and all((candidate % mod == res % mod) for res, mod in zip(residues, moduli)):
+                    new_solutions.append(candidate)
+        possible_solutions = new_solutions if new_solutions else possible_solutions
+
+    return min(possible_solutions) if possible_solutions else -1
 
 
 def solve_quadratic_mod2k(a, b, c, k):
@@ -109,8 +116,6 @@ def solve_quadratic_mod(A, B, C):
     MOD2 = 1953125  # 5^9
     FINAL_MOD = 10 ** 9
 
-    if not all(isinstance(x, int) for x in (A, B, C)):
-        return -1
 
     if A == 0 and B == 0:
         return 0 if C == 0 else -1

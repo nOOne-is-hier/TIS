@@ -17,7 +17,7 @@ def extended_gcd(a, b):
 
 
 def safe_mod(a, m):
-    if m == 0:
+    if m <= 0:
         return -1
     return a % m
 
