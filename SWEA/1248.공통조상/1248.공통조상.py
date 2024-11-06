@@ -11,12 +11,6 @@ def DFS(v1, v2, node=0, is_met1=None, is_met2=None):
     if is_met2 is None:
         is_met2 = [False]
 
-    # subtree_size = 1
-
-    if not adjacency_list[node][0]:
-        # return subtree_size
-        return 1
-
     if not is_met1[0]:
         parent1.appendleft(node)
     if not is_met2[0]:
@@ -30,8 +24,6 @@ def DFS(v1, v2, node=0, is_met1=None, is_met2=None):
             parent2.appendleft(child)
             is_met2[0] = True
         adjacency_list[node][1] += DFS(v1, v2, child, is_met1, is_met2)
-
-    # adjacency_list[node][1] = subtree_size
 
     if not is_met1[0]:
         parent1.popleft()
