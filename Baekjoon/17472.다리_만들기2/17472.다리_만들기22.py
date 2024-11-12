@@ -30,7 +30,10 @@ def find_island(map):
                                     if not is_visited[nr][nc]:
                                         is_visited[nr][nc] = 1
                                         order.append((nr, nc))
-                        borders.add((r, c))
+                                else:
+                                    is_border = True
+                        if is_border:
+                            borders.add((r, c))
                     islands.append(borders)
 
 
@@ -53,12 +56,12 @@ def find_edge(nodes):
                                 is_finish = True
                                 break
                     else:
-                        is_finish = True
+                        break
                 else:
                     to_right += 1
                 if is_finish:
                     break
-            if distance[1] is not False:
+            if distance[1] is not False and distance[1] != start:
                 adjacency_list[start].append(distance)
                 adjacency_list[distance[1]].append((distance[0], start))
 
@@ -93,7 +96,7 @@ def prim(adj):
     order = [(0, 0)]
     total_cost = 0
 
-    while order:
+    while order and sum(is_visited) < N:
         weight, node = heappop(order)
         if is_visited[node]:
             continue
@@ -116,4 +119,5 @@ islands = []
 find_island(beach_map)
 adjacency_list = [[] for _ in range(len(islands))]
 find_edge(islands)
+print(adjacency_list)
 print(prim(adjacency_list))
