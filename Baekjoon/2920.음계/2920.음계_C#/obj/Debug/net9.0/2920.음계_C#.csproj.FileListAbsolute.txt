@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\bin\Debug\net9.0\2920.음계_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\bin\Debug\net9.0\2920.음계_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\bin\Debug\net9.0\2920.음계_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\bin\Debug\net9.0\2920.음계_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\bin\Debug\net9.0\2920.음계_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\obj\Debug\net9.0\2920.음계_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\obj\Debug\net9.0\2920.음계_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\obj\Debug\net9.0\2920.음계_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\obj\Debug\net9.0\2920.음계_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\obj\Debug\net9.0\2920.음계_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\obj\Debug\net9.0\2920.음계_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\obj\Debug\net9.0\refint\2920.음계_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\obj\Debug\net9.0\2920.음계_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\obj\Debug\net9.0\2920.음계_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2920.음계\2920.음계_C#\obj\Debug\net9.0\ref\2920.음계_C#.dll

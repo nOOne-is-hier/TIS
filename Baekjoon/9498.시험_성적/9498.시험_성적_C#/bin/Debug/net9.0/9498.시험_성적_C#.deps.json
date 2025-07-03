@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "9498.시험_성적_C#/1.0.0": {
+        "runtime": {
+          "9498.시험_성적_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "9498.시험_성적_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

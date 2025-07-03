@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\bin\Debug\net9.0\2753.윤년.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\bin\Debug\net9.0\2753.윤년.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\bin\Debug\net9.0\2753.윤년.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\bin\Debug\net9.0\2753.윤년.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\bin\Debug\net9.0\2753.윤년.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\obj\Debug\net9.0\2753.윤년.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\obj\Debug\net9.0\2753.윤년.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\obj\Debug\net9.0\2753.윤년.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\obj\Debug\net9.0\2753.윤년.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\obj\Debug\net9.0\2753.윤년.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\obj\Debug\net9.0\2753.윤년.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\obj\Debug\net9.0\refint\2753.윤년.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\obj\Debug\net9.0\2753.윤년.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\obj\Debug\net9.0\2753.윤년.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2753.윤년\2753.윤년\obj\Debug\net9.0\ref\2753.윤년.dll

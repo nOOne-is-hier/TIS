@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "10869.사칙연산_C#/1.0.0": {
+        "runtime": {
+          "10869.사칙연산_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10869.사칙연산_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

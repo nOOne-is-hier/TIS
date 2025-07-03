@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "2557.Hello_World/1.0.0": {
+        "runtime": {
+          "2557.Hello_World.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2557.Hello_World/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

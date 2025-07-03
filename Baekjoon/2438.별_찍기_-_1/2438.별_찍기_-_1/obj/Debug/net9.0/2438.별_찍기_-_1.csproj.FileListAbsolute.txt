@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\bin\Debug\net9.0\2438.별_찍기_-_1.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\bin\Debug\net9.0\2438.별_찍기_-_1.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\bin\Debug\net9.0\2438.별_찍기_-_1.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\bin\Debug\net9.0\2438.별_찍기_-_1.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\bin\Debug\net9.0\2438.별_찍기_-_1.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\obj\Debug\net9.0\2438.별_찍기_-_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\obj\Debug\net9.0\2438.별_찍기_-_1.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\obj\Debug\net9.0\2438.별_찍기_-_1.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\obj\Debug\net9.0\2438.별_찍기_-_1.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\obj\Debug\net9.0\2438.별_찍기_-_1.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\obj\Debug\net9.0\2438.별_찍기_-_1.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\obj\Debug\net9.0\refint\2438.별_찍기_-_1.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\obj\Debug\net9.0\2438.별_찍기_-_1.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\obj\Debug\net9.0\2438.별_찍기_-_1.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2438.별_찍기_-_1\2438.별_찍기_-_1\obj\Debug\net9.0\ref\2438.별_찍기_-_1.dll

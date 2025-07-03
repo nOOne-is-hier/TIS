@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\bin\Debug\net9.0\10171.고양이_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\bin\Debug\net9.0\10171.고양이_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\bin\Debug\net9.0\10171.고양이_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\bin\Debug\net9.0\10171.고양이_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\bin\Debug\net9.0\10171.고양이_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\obj\Debug\net9.0\10171.고양이_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\obj\Debug\net9.0\10171.고양이_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\obj\Debug\net9.0\10171.고양이_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\obj\Debug\net9.0\10171.고양이_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\obj\Debug\net9.0\10171.고양이_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\obj\Debug\net9.0\10171.고양이_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\obj\Debug\net9.0\refint\10171.고양이_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\obj\Debug\net9.0\10171.고양이_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\obj\Debug\net9.0\10171.고양이_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10171.고양이\10171.고양이_C#\obj\Debug\net9.0\ref\10171.고양이_C#.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "10171.고양이_C#/1.0.0": {
+        "runtime": {
+          "10171.고양이_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10171.고양이_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

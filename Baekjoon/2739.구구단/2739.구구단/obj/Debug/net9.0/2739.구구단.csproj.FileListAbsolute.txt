@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\bin\Debug\net9.0\2739.구구단.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\bin\Debug\net9.0\2739.구구단.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\bin\Debug\net9.0\2739.구구단.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\bin\Debug\net9.0\2739.구구단.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\bin\Debug\net9.0\2739.구구단.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\obj\Debug\net9.0\2739.구구단.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\obj\Debug\net9.0\2739.구구단.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\obj\Debug\net9.0\2739.구구단.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\obj\Debug\net9.0\2739.구구단.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\obj\Debug\net9.0\2739.구구단.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\obj\Debug\net9.0\2739.구구단.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\obj\Debug\net9.0\refint\2739.구구단.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\obj\Debug\net9.0\2739.구구단.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\obj\Debug\net9.0\2739.구구단.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2739.구구단\2739.구구단\obj\Debug\net9.0\ref\2739.구구단.dll

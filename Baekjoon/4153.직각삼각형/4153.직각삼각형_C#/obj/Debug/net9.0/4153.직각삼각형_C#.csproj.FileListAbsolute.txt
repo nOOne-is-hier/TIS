@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\bin\Debug\net9.0\4153.직각삼각형_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\bin\Debug\net9.0\4153.직각삼각형_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\bin\Debug\net9.0\4153.직각삼각형_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\bin\Debug\net9.0\4153.직각삼각형_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\bin\Debug\net9.0\4153.직각삼각형_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\obj\Debug\net9.0\4153.직각삼각형_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\obj\Debug\net9.0\4153.직각삼각형_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\obj\Debug\net9.0\4153.직각삼각형_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\obj\Debug\net9.0\4153.직각삼각형_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\obj\Debug\net9.0\4153.직각삼각형_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\obj\Debug\net9.0\4153.직각삼각형_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\obj\Debug\net9.0\refint\4153.직각삼각형_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\obj\Debug\net9.0\4153.직각삼각형_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\obj\Debug\net9.0\4153.직각삼각형_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\4153.직각삼각형\4153.직각삼각형_C#\obj\Debug\net9.0\ref\4153.직각삼각형_C#.dll

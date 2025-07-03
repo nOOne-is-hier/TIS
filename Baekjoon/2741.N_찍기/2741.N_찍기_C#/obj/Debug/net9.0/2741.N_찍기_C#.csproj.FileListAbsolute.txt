@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\bin\Debug\net9.0\2741.N_찍기_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\bin\Debug\net9.0\2741.N_찍기_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\bin\Debug\net9.0\2741.N_찍기_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\bin\Debug\net9.0\2741.N_찍기_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\bin\Debug\net9.0\2741.N_찍기_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\obj\Debug\net9.0\2741.N_찍기_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\obj\Debug\net9.0\2741.N_찍기_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\obj\Debug\net9.0\2741.N_찍기_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\obj\Debug\net9.0\2741.N_찍기_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\obj\Debug\net9.0\2741.N_찍기_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\obj\Debug\net9.0\2741.N_찍기_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\obj\Debug\net9.0\refint\2741.N_찍기_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\obj\Debug\net9.0\2741.N_찍기_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\obj\Debug\net9.0\2741.N_찍기_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2741.N_찍기\2741.N_찍기_C#\obj\Debug\net9.0\ref\2741.N_찍기_C#.dll

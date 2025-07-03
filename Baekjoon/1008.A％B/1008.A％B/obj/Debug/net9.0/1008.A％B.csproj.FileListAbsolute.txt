@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\bin\Debug\net9.0\1008.A％B.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\bin\Debug\net9.0\1008.A％B.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\bin\Debug\net9.0\1008.A％B.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\bin\Debug\net9.0\1008.A％B.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\bin\Debug\net9.0\1008.A％B.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\obj\Debug\net9.0\1008.A％B.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\obj\Debug\net9.0\1008.A％B.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\obj\Debug\net9.0\1008.A％B.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\obj\Debug\net9.0\1008.A％B.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\obj\Debug\net9.0\1008.A％B.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\obj\Debug\net9.0\1008.A％B.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\obj\Debug\net9.0\refint\1008.A％B.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\obj\Debug\net9.0\1008.A％B.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\obj\Debug\net9.0\1008.A％B.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1008.A％B\1008.A％B\obj\Debug\net9.0\ref\1008.A％B.dll

@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\bin\Debug\net9.0\2557.Hello_World.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\bin\Debug\net9.0\2557.Hello_World.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\bin\Debug\net9.0\2557.Hello_World.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\bin\Debug\net9.0\2557.Hello_World.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\bin\Debug\net9.0\2557.Hello_World.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\obj\Debug\net9.0\2557.Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\obj\Debug\net9.0\2557.Hello_World.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\obj\Debug\net9.0\2557.Hello_World.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\obj\Debug\net9.0\2557.Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\obj\Debug\net9.0\2557.Hello_World.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\obj\Debug\net9.0\2557.Hello_World.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\obj\Debug\net9.0\refint\2557.Hello_World.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\obj\Debug\net9.0\2557.Hello_World.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\obj\Debug\net9.0\2557.Hello_World.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2557.Hello_World\2557.Hello_World\obj\Debug\net9.0\ref\2557.Hello_World.dll

@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\bin\Debug\net9.0\8958.OX퀴즈_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\bin\Debug\net9.0\8958.OX퀴즈_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\bin\Debug\net9.0\8958.OX퀴즈_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\bin\Debug\net9.0\8958.OX퀴즈_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\bin\Debug\net9.0\8958.OX퀴즈_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\obj\Debug\net9.0\8958.OX퀴즈_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\obj\Debug\net9.0\8958.OX퀴즈_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\obj\Debug\net9.0\8958.OX퀴즈_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\obj\Debug\net9.0\8958.OX퀴즈_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\obj\Debug\net9.0\8958.OX퀴즈_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\obj\Debug\net9.0\8958.OX퀴즈_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\obj\Debug\net9.0\refint\8958.OX퀴즈_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\obj\Debug\net9.0\8958.OX퀴즈_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\obj\Debug\net9.0\8958.OX퀴즈_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\8958.OX퀴즈\8958.OX퀴즈_C#\obj\Debug\net9.0\ref\8958.OX퀴즈_C#.dll

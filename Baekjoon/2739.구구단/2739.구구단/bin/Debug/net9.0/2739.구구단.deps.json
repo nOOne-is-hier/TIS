@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "2739.구구단/1.0.0": {
+        "runtime": {
+          "2739.구구단.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2739.구구단/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

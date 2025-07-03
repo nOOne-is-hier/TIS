@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\bin\Debug\net9.0\10869.사칙연산_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\bin\Debug\net9.0\10869.사칙연산_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\bin\Debug\net9.0\10869.사칙연산_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\bin\Debug\net9.0\10869.사칙연산_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\bin\Debug\net9.0\10869.사칙연산_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\obj\Debug\net9.0\10869.사칙연산_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\obj\Debug\net9.0\10869.사칙연산_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\obj\Debug\net9.0\10869.사칙연산_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\obj\Debug\net9.0\10869.사칙연산_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\obj\Debug\net9.0\10869.사칙연산_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\obj\Debug\net9.0\10869.사칙연산_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\obj\Debug\net9.0\refint\10869.사칙연산_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\obj\Debug\net9.0\10869.사칙연산_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\obj\Debug\net9.0\10869.사칙연산_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10869.사칙연산\10869.사칙연산_C#\obj\Debug\net9.0\ref\10869.사칙연산_C#.dll
