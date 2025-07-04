@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\bin\Debug\net9.0\30802.웰컴_키트_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\bin\Debug\net9.0\30802.웰컴_키트_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\bin\Debug\net9.0\30802.웰컴_키트_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\bin\Debug\net9.0\30802.웰컴_키트_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\bin\Debug\net9.0\30802.웰컴_키트_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\obj\Debug\net9.0\30802.웰컴_키트_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\obj\Debug\net9.0\30802.웰컴_키트_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\obj\Debug\net9.0\30802.웰컴_키트_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\obj\Debug\net9.0\30802.웰컴_키트_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\obj\Debug\net9.0\30802.웰컴_키트_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\obj\Debug\net9.0\30802.웰컴_키트_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\obj\Debug\net9.0\refint\30802.웰컴_키트_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\obj\Debug\net9.0\30802.웰컴_키트_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\obj\Debug\net9.0\30802.웰컴_키트_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\30802.웰컴_키트\30802.웰컴_키트_C#\obj\Debug\net9.0\ref\30802.웰컴_키트_C#.dll
