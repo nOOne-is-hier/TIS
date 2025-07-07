@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "30804.과일_탕후루_C#/1.0.0": {
+        "runtime": {
+          "30804.과일_탕후루_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "30804.과일_탕후루_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
