@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\bin\Debug\net9.0\18110.solved.ac_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\bin\Debug\net9.0\18110.solved.ac_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\bin\Debug\net9.0\18110.solved.ac_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\bin\Debug\net9.0\18110.solved.ac_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\bin\Debug\net9.0\18110.solved.ac_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\obj\Debug\net9.0\18110.solved.ac_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\obj\Debug\net9.0\18110.solved.ac_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\obj\Debug\net9.0\18110.solved.ac_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\obj\Debug\net9.0\18110.solved.ac_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\obj\Debug\net9.0\18110.solved.ac_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\obj\Debug\net9.0\18110.solved.ac_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\obj\Debug\net9.0\refint\18110.solved.ac_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\obj\Debug\net9.0\18110.solved.ac_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\obj\Debug\net9.0\18110.solved.ac_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18110.solved.ac\18110.solved.ac_C#\obj\Debug\net9.0\ref\18110.solved.ac_C#.dll
