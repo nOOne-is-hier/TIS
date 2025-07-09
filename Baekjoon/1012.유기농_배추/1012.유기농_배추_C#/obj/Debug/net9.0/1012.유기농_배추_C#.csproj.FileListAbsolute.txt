@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\bin\Debug\net9.0\1012.유기농_배추_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\bin\Debug\net9.0\1012.유기농_배추_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\bin\Debug\net9.0\1012.유기농_배추_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\bin\Debug\net9.0\1012.유기농_배추_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\bin\Debug\net9.0\1012.유기농_배추_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\obj\Debug\net9.0\1012.유기농_배추_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\obj\Debug\net9.0\1012.유기농_배추_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\obj\Debug\net9.0\1012.유기농_배추_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\obj\Debug\net9.0\1012.유기농_배추_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\obj\Debug\net9.0\1012.유기농_배추_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\obj\Debug\net9.0\1012.유기농_배추_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\obj\Debug\net9.0\refint\1012.유기농_배추_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\obj\Debug\net9.0\1012.유기농_배추_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\obj\Debug\net9.0\1012.유기농_배추_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1012.유기농_배추\1012.유기농_배추_C#\obj\Debug\net9.0\ref\1012.유기농_배추_C#.dll
