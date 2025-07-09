@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "11050.이항_계수_1_C#/1.0.0": {
+        "runtime": {
+          "11050.이항_계수_1_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11050.이항_계수_1_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

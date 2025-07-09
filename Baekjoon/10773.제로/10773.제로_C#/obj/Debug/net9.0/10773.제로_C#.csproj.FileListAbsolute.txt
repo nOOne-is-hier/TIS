@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\bin\Debug\net9.0\10773.제로_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\bin\Debug\net9.0\10773.제로_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\bin\Debug\net9.0\10773.제로_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\bin\Debug\net9.0\10773.제로_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\bin\Debug\net9.0\10773.제로_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\obj\Debug\net9.0\10773.제로_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\obj\Debug\net9.0\10773.제로_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\obj\Debug\net9.0\10773.제로_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\obj\Debug\net9.0\10773.제로_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\obj\Debug\net9.0\10773.제로_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\obj\Debug\net9.0\10773.제로_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\obj\Debug\net9.0\refint\10773.제로_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\obj\Debug\net9.0\10773.제로_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\obj\Debug\net9.0\10773.제로_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10773.제로\10773.제로_C#\obj\Debug\net9.0\ref\10773.제로_C#.dll

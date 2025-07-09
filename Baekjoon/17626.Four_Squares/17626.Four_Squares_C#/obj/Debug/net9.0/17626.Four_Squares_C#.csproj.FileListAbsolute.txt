@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\bin\Debug\net9.0\17626.Four_Squares_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\bin\Debug\net9.0\17626.Four_Squares_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\bin\Debug\net9.0\17626.Four_Squares_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\bin\Debug\net9.0\17626.Four_Squares_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\bin\Debug\net9.0\17626.Four_Squares_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\obj\Debug\net9.0\17626.Four_Squares_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\obj\Debug\net9.0\17626.Four_Squares_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\obj\Debug\net9.0\17626.Four_Squares_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\obj\Debug\net9.0\17626.Four_Squares_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\obj\Debug\net9.0\17626.Four_Squares_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\obj\Debug\net9.0\17626.Four_Squares_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\obj\Debug\net9.0\refint\17626.Four_Squares_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\obj\Debug\net9.0\17626.Four_Squares_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\obj\Debug\net9.0\17626.Four_Squares_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\17626.Four_Squares\17626.Four_Squares_C#\obj\Debug\net9.0\ref\17626.Four_Squares_C#.dll

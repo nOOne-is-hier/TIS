@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\bin\Debug\net9.0\14626.ISBN_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\bin\Debug\net9.0\14626.ISBN_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\bin\Debug\net9.0\14626.ISBN_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\bin\Debug\net9.0\14626.ISBN_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\bin\Debug\net9.0\14626.ISBN_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\obj\Debug\net9.0\14626.ISBN_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\obj\Debug\net9.0\14626.ISBN_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\obj\Debug\net9.0\14626.ISBN_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\obj\Debug\net9.0\14626.ISBN_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\obj\Debug\net9.0\14626.ISBN_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\obj\Debug\net9.0\14626.ISBN_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\obj\Debug\net9.0\refint\14626.ISBN_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\obj\Debug\net9.0\14626.ISBN_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\obj\Debug\net9.0\14626.ISBN_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14626.ISBN\14626.ISBN_C#\obj\Debug\net9.0\ref\14626.ISBN_C#.dll

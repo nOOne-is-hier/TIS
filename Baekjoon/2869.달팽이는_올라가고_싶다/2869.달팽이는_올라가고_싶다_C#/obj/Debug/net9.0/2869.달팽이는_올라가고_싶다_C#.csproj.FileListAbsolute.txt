@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\bin\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\bin\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\bin\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\bin\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\bin\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\obj\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\obj\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\obj\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\obj\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\obj\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\obj\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\obj\Debug\net9.0\refint\2869.달팽이는_올라가고_싶다_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\obj\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\obj\Debug\net9.0\2869.달팽이는_올라가고_싶다_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2869.달팽이는_올라가고_싶다\2869.달팽이는_올라가고_싶다_C#\obj\Debug\net9.0\ref\2869.달팽이는_올라가고_싶다_C#.dll

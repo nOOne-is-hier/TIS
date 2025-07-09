@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\bin\Debug\net9.0\2108.통계학_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\bin\Debug\net9.0\2108.통계학_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\bin\Debug\net9.0\2108.통계학_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\bin\Debug\net9.0\2108.통계학_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\bin\Debug\net9.0\2108.통계학_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\obj\Debug\net9.0\2108.통계학_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\obj\Debug\net9.0\2108.통계학_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\obj\Debug\net9.0\2108.통계학_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\obj\Debug\net9.0\2108.통계학_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\obj\Debug\net9.0\2108.통계학_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\obj\Debug\net9.0\2108.통계학_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\obj\Debug\net9.0\refint\2108.통계학_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\obj\Debug\net9.0\2108.통계학_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\obj\Debug\net9.0\2108.통계학_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2108.통계학\2108.통계학_C#\obj\Debug\net9.0\ref\2108.통계학_C#.dll

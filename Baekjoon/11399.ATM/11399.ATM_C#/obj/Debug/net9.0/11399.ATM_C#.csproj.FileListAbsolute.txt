@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\bin\Debug\net9.0\11399.ATM_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\bin\Debug\net9.0\11399.ATM_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\bin\Debug\net9.0\11399.ATM_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\bin\Debug\net9.0\11399.ATM_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\bin\Debug\net9.0\11399.ATM_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\obj\Debug\net9.0\11399.ATM_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\obj\Debug\net9.0\11399.ATM_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\obj\Debug\net9.0\11399.ATM_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\obj\Debug\net9.0\11399.ATM_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\obj\Debug\net9.0\11399.ATM_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\obj\Debug\net9.0\11399.ATM_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\obj\Debug\net9.0\refint\11399.ATM_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\obj\Debug\net9.0\11399.ATM_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\obj\Debug\net9.0\11399.ATM_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11399.ATM\11399.ATM_C#\obj\Debug\net9.0\ref\11399.ATM_C#.dll

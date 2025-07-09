@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\bin\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\bin\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\bin\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\bin\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\bin\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\obj\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\obj\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\obj\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\obj\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\obj\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\obj\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\obj\Debug\net9.0\refint\1620.나는야_포켓몬_마스터_이다솜_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\obj\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\obj\Debug\net9.0\1620.나는야_포켓몬_마스터_이다솜_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1620.나는야_포켓몬_마스터_이다솜\1620.나는야_포켓몬_마스터_이다솜_C#\obj\Debug\net9.0\ref\1620.나는야_포켓몬_마스터_이다솜_C#.dll

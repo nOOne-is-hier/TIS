@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "10816.숫자_카드_2_C#/1.0.0": {
+        "runtime": {
+          "10816.숫자_카드_2_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10816.숫자_카드_2_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

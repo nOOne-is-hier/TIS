@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\bin\Debug\net9.0\1874.스택_수열_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\bin\Debug\net9.0\1874.스택_수열_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\bin\Debug\net9.0\1874.스택_수열_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\bin\Debug\net9.0\1874.스택_수열_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\bin\Debug\net9.0\1874.스택_수열_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\obj\Debug\net9.0\1874.스택_수열_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\obj\Debug\net9.0\1874.스택_수열_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\obj\Debug\net9.0\1874.스택_수열_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\obj\Debug\net9.0\1874.스택_수열_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\obj\Debug\net9.0\1874.스택_수열_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\obj\Debug\net9.0\1874.스택_수열_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\obj\Debug\net9.0\refint\1874.스택_수열_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\obj\Debug\net9.0\1874.스택_수열_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\obj\Debug\net9.0\1874.스택_수열_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1874.스택_수열\1874.스택_수열_C#\obj\Debug\net9.0\ref\1874.스택_수열_C#.dll

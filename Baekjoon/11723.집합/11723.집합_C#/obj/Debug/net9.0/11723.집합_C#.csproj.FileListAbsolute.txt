@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\bin\Debug\net9.0\11723.집합_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\bin\Debug\net9.0\11723.집합_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\bin\Debug\net9.0\11723.집합_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\bin\Debug\net9.0\11723.집합_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\bin\Debug\net9.0\11723.집합_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\obj\Debug\net9.0\11723.집합_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\obj\Debug\net9.0\11723.집합_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\obj\Debug\net9.0\11723.집합_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\obj\Debug\net9.0\11723.집합_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\obj\Debug\net9.0\11723.집합_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\obj\Debug\net9.0\11723.집합_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\obj\Debug\net9.0\refint\11723.집합_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\obj\Debug\net9.0\11723.집합_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\obj\Debug\net9.0\11723.집합_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11723.집합\11723.집합_C#\obj\Debug\net9.0\ref\11723.집합_C#.dll

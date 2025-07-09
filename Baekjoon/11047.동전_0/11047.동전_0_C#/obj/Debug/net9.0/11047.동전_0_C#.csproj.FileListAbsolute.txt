@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\bin\Debug\net9.0\11047.동전_0_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\bin\Debug\net9.0\11047.동전_0_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\bin\Debug\net9.0\11047.동전_0_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\bin\Debug\net9.0\11047.동전_0_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\bin\Debug\net9.0\11047.동전_0_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\obj\Debug\net9.0\11047.동전_0_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\obj\Debug\net9.0\11047.동전_0_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\obj\Debug\net9.0\11047.동전_0_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\obj\Debug\net9.0\11047.동전_0_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\obj\Debug\net9.0\11047.동전_0_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\obj\Debug\net9.0\11047.동전_0_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\obj\Debug\net9.0\refint\11047.동전_0_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\obj\Debug\net9.0\11047.동전_0_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\obj\Debug\net9.0\11047.동전_0_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11047.동전_0\11047.동전_0_C#\obj\Debug\net9.0\ref\11047.동전_0_C#.dll

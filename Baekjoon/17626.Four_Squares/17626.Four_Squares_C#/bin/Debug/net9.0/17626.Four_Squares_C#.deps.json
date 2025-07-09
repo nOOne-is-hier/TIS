@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "17626.Four_Squares_C#/1.0.0": {
+        "runtime": {
+          "17626.Four_Squares_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "17626.Four_Squares_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\bin\Debug\net9.0\2775.부녀회장이_될테야_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\bin\Debug\net9.0\2775.부녀회장이_될테야_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\bin\Debug\net9.0\2775.부녀회장이_될테야_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\bin\Debug\net9.0\2775.부녀회장이_될테야_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\bin\Debug\net9.0\2775.부녀회장이_될테야_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\obj\Debug\net9.0\2775.부녀회장이_될테야_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\obj\Debug\net9.0\2775.부녀회장이_될테야_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\obj\Debug\net9.0\2775.부녀회장이_될테야_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\obj\Debug\net9.0\2775.부녀회장이_될테야_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\obj\Debug\net9.0\2775.부녀회장이_될테야_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\obj\Debug\net9.0\2775.부녀회장이_될테야_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\obj\Debug\net9.0\refint\2775.부녀회장이_될테야_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\obj\Debug\net9.0\2775.부녀회장이_될테야_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\obj\Debug\net9.0\2775.부녀회장이_될테야_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2775.부녀회장이_될테야\2775.부녀회장이_될테야_C#\obj\Debug\net9.0\ref\2775.부녀회장이_될테야_C#.dll

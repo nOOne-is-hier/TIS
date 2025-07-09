@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "1436.영화감독_숌_C#/1.0.0": {
+        "runtime": {
+          "1436.영화감독_숌_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1436.영화감독_숌_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

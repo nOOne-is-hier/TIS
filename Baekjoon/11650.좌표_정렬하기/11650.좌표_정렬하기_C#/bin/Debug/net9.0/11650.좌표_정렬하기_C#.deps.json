@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "11650.좌표_정렬하기_C#/1.0.0": {
+        "runtime": {
+          "11650.좌표_정렬하기_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11650.좌표_정렬하기_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

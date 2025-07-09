@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "2775.부녀회장이_될테야_C#/1.0.0": {
+        "runtime": {
+          "2775.부녀회장이_될테야_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2775.부녀회장이_될테야_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

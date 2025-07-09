@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\bin\Debug\net9.0\2606.바이러스_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\bin\Debug\net9.0\2606.바이러스_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\bin\Debug\net9.0\2606.바이러스_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\bin\Debug\net9.0\2606.바이러스_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\bin\Debug\net9.0\2606.바이러스_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\obj\Debug\net9.0\2606.바이러스_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\obj\Debug\net9.0\2606.바이러스_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\obj\Debug\net9.0\2606.바이러스_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\obj\Debug\net9.0\2606.바이러스_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\obj\Debug\net9.0\2606.바이러스_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\obj\Debug\net9.0\2606.바이러스_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\obj\Debug\net9.0\refint\2606.바이러스_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\obj\Debug\net9.0\2606.바이러스_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\obj\Debug\net9.0\2606.바이러스_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2606.바이러스\2606.바이러스_C#\obj\Debug\net9.0\ref\2606.바이러스_C#.dll

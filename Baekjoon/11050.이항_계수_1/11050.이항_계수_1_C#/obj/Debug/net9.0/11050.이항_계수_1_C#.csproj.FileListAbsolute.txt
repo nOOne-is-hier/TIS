@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\bin\Debug\net9.0\11050.이항_계수_1_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\bin\Debug\net9.0\11050.이항_계수_1_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\bin\Debug\net9.0\11050.이항_계수_1_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\bin\Debug\net9.0\11050.이항_계수_1_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\bin\Debug\net9.0\11050.이항_계수_1_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\obj\Debug\net9.0\11050.이항_계수_1_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\obj\Debug\net9.0\11050.이항_계수_1_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\obj\Debug\net9.0\11050.이항_계수_1_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\obj\Debug\net9.0\11050.이항_계수_1_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\obj\Debug\net9.0\11050.이항_계수_1_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\obj\Debug\net9.0\11050.이항_계수_1_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\obj\Debug\net9.0\refint\11050.이항_계수_1_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\obj\Debug\net9.0\11050.이항_계수_1_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\obj\Debug\net9.0\11050.이항_계수_1_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\11050.이항_계수_1\11050.이항_계수_1_C#\obj\Debug\net9.0\ref\11050.이항_계수_1_C#.dll

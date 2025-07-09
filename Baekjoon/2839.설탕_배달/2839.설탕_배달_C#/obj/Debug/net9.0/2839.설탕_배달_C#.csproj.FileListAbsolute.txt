@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\bin\Debug\net9.0\2839.설탕_배달_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\bin\Debug\net9.0\2839.설탕_배달_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\bin\Debug\net9.0\2839.설탕_배달_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\bin\Debug\net9.0\2839.설탕_배달_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\bin\Debug\net9.0\2839.설탕_배달_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\obj\Debug\net9.0\2839.설탕_배달_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\obj\Debug\net9.0\2839.설탕_배달_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\obj\Debug\net9.0\2839.설탕_배달_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\obj\Debug\net9.0\2839.설탕_배달_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\obj\Debug\net9.0\2839.설탕_배달_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\obj\Debug\net9.0\2839.설탕_배달_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\obj\Debug\net9.0\refint\2839.설탕_배달_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\obj\Debug\net9.0\2839.설탕_배달_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\obj\Debug\net9.0\2839.설탕_배달_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\2839.설탕_배달\2839.설탕_배달_C#\obj\Debug\net9.0\ref\2839.설탕_배달_C#.dll

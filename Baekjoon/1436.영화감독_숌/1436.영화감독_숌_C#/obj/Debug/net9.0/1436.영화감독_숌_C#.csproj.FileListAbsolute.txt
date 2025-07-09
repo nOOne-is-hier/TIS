@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\bin\Debug\net9.0\1436.영화감독_숌_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\bin\Debug\net9.0\1436.영화감독_숌_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\bin\Debug\net9.0\1436.영화감독_숌_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\bin\Debug\net9.0\1436.영화감독_숌_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\bin\Debug\net9.0\1436.영화감독_숌_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\obj\Debug\net9.0\1436.영화감독_숌_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\obj\Debug\net9.0\1436.영화감독_숌_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\obj\Debug\net9.0\1436.영화감독_숌_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\obj\Debug\net9.0\1436.영화감독_숌_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\obj\Debug\net9.0\1436.영화감독_숌_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\obj\Debug\net9.0\1436.영화감독_숌_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\obj\Debug\net9.0\refint\1436.영화감독_숌_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\obj\Debug\net9.0\1436.영화감독_숌_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\obj\Debug\net9.0\1436.영화감독_숌_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1436.영화감독_숌\1436.영화감독_숌_C#\obj\Debug\net9.0\ref\1436.영화감독_숌_C#.dll
