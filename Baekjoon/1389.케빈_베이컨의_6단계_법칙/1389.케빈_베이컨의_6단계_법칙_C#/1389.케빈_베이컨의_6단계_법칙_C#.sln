@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1389.케빈_베이컨의_6단계_법칙_C#", "1389.케빈_베이컨의_6단계_법칙_C#.csproj", "{47BC4A70-F411-2A48-95D2-91119E03131F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47BC4A70-F411-2A48-95D2-91119E03131F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BC4A70-F411-2A48-95D2-91119E03131F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BC4A70-F411-2A48-95D2-91119E03131F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BC4A70-F411-2A48-95D2-91119E03131F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17C580FB-FBFF-45D8-9928-53456B448C6B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\bin\Debug\net9.0\18870.좌표_압축_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\bin\Debug\net9.0\18870.좌표_압축_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\bin\Debug\net9.0\18870.좌표_압축_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\bin\Debug\net9.0\18870.좌표_압축_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\bin\Debug\net9.0\18870.좌표_압축_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\obj\Debug\net9.0\18870.좌표_압축_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\obj\Debug\net9.0\18870.좌표_압축_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\obj\Debug\net9.0\18870.좌표_압축_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\obj\Debug\net9.0\18870.좌표_압축_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\obj\Debug\net9.0\18870.좌표_압축_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\obj\Debug\net9.0\18870.좌표_압축_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\obj\Debug\net9.0\refint\18870.좌표_압축_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\obj\Debug\net9.0\18870.좌표_압축_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\obj\Debug\net9.0\18870.좌표_압축_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18870.좌표_압축\18870.좌표_압축_C#\obj\Debug\net9.0\ref\18870.좌표_압축_C#.dll

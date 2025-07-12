@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\bin\Debug\net9.0\10026.적록색약_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\bin\Debug\net9.0\10026.적록색약_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\bin\Debug\net9.0\10026.적록색약_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\bin\Debug\net9.0\10026.적록색약_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\bin\Debug\net9.0\10026.적록색약_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\obj\Debug\net9.0\10026.적록색약_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\obj\Debug\net9.0\10026.적록색약_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\obj\Debug\net9.0\10026.적록색약_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\obj\Debug\net9.0\10026.적록색약_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\obj\Debug\net9.0\10026.적록색약_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\obj\Debug\net9.0\10026.적록색약_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\obj\Debug\net9.0\refint\10026.적록색약_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\obj\Debug\net9.0\10026.적록색약_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\obj\Debug\net9.0\10026.적록색약_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\10026.적록색약\10026.적록색약_C#\obj\Debug\net9.0\ref\10026.적록색약_C#.dll

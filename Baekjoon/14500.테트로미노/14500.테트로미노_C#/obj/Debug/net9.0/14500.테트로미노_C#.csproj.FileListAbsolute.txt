@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\obj\Debug\net9.0\14500.테트로미노_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\obj\Debug\net9.0\14500.테트로미노_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\obj\Debug\net9.0\14500.테트로미노_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\obj\Debug\net9.0\14500.테트로미노_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\obj\Debug\net9.0\14500.테트로미노_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\bin\Debug\net9.0\14500.테트로미노_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\bin\Debug\net9.0\14500.테트로미노_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\bin\Debug\net9.0\14500.테트로미노_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\bin\Debug\net9.0\14500.테트로미노_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\bin\Debug\net9.0\14500.테트로미노_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\obj\Debug\net9.0\14500.테트로미노_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\obj\Debug\net9.0\refint\14500.테트로미노_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\obj\Debug\net9.0\14500.테트로미노_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\obj\Debug\net9.0\14500.테트로미노_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\14500.테트로미노\14500.테트로미노_C#\obj\Debug\net9.0\ref\14500.테트로미노_C#.dll

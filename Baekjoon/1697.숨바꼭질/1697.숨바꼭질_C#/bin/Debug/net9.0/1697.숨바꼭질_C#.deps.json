@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "1697.숨바꼭질_C#/1.0.0": {
+        "runtime": {
+          "1697.숨바꼭질_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1697.숨바꼭질_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

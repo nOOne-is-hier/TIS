@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\bin\Debug\net9.0\9019.DSLR_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\bin\Debug\net9.0\9019.DSLR_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\bin\Debug\net9.0\9019.DSLR_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\bin\Debug\net9.0\9019.DSLR_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\bin\Debug\net9.0\9019.DSLR_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\obj\Debug\net9.0\9019.DSLR_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\obj\Debug\net9.0\9019.DSLR_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\obj\Debug\net9.0\9019.DSLR_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\obj\Debug\net9.0\9019.DSLR_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\obj\Debug\net9.0\9019.DSLR_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\obj\Debug\net9.0\9019.DSLR_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\obj\Debug\net9.0\refint\9019.DSLR_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\obj\Debug\net9.0\9019.DSLR_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\obj\Debug\net9.0\9019.DSLR_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\9019.DSLR\9019.DSLR_C#\obj\Debug\net9.0\ref\9019.DSLR_C#.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "2805.나무_자르기_C#/1.0.0": {
+        "runtime": {
+          "2805.나무_자르기_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2805.나무_자르기_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

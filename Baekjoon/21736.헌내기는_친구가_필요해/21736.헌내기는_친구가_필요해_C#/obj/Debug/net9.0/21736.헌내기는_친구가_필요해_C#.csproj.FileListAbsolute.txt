@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\bin\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\bin\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\bin\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\bin\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\bin\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\obj\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\obj\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\obj\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\obj\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\obj\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\obj\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\obj\Debug\net9.0\refint\21736.헌내기는_친구가_필요해_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\obj\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\obj\Debug\net9.0\21736.헌내기는_친구가_필요해_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\21736.헌내기는_친구가_필요해\21736.헌내기는_친구가_필요해_C#\obj\Debug\net9.0\ref\21736.헌내기는_친구가_필요해_C#.dll

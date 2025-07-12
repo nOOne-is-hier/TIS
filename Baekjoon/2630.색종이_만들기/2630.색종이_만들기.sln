@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2630.색종이_만들기_C#", "2630.색종이_만들기_C#\2630.색종이_만들기_C#.csproj", "{0BB3FC9C-C13C-C298-D636-7ED6E3717289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BB3FC9C-C13C-C298-D636-7ED6E3717289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB3FC9C-C13C-C298-D636-7ED6E3717289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB3FC9C-C13C-C298-D636-7ED6E3717289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB3FC9C-C13C-C298-D636-7ED6E3717289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {554D0E32-1DEB-415F-9035-E53AD6A176F2}
+	EndGlobalSection
+EndGlobal

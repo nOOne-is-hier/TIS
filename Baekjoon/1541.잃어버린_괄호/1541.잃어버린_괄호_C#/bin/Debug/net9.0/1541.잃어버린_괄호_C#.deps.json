@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "1541.잃어버린_괄호_C#/1.0.0": {
+        "runtime": {
+          "1541.잃어버린_괄호_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1541.잃어버린_괄호_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

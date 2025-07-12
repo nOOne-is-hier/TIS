@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "11724.연결_요소의_개수_C#/1.0.0": {
+        "runtime": {
+          "11724.연결_요소의_개수_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "11724.연결_요소의_개수_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

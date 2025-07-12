@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "1927.최소_힙_C#/1.0.0": {
+        "runtime": {
+          "1927.최소_힙_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1927.최소_힙_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

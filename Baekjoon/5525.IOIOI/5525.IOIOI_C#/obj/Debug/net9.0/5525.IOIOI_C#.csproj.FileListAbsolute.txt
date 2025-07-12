@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\bin\Debug\net9.0\5525.IOIOI_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\bin\Debug\net9.0\5525.IOIOI_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\bin\Debug\net9.0\5525.IOIOI_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\bin\Debug\net9.0\5525.IOIOI_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\bin\Debug\net9.0\5525.IOIOI_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\obj\Debug\net9.0\5525.IOIOI_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\obj\Debug\net9.0\5525.IOIOI_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\obj\Debug\net9.0\5525.IOIOI_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\obj\Debug\net9.0\5525.IOIOI_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\obj\Debug\net9.0\5525.IOIOI_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\obj\Debug\net9.0\5525.IOIOI_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\obj\Debug\net9.0\refint\5525.IOIOI_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\obj\Debug\net9.0\5525.IOIOI_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\obj\Debug\net9.0\5525.IOIOI_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\5525.IOIOI\5525.IOIOI_C#\obj\Debug\net9.0\ref\5525.IOIOI_C#.dll

@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\bin\Debug\net9.0\18111.마인크래프트_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\bin\Debug\net9.0\18111.마인크래프트_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\bin\Debug\net9.0\18111.마인크래프트_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\bin\Debug\net9.0\18111.마인크래프트_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\bin\Debug\net9.0\18111.마인크래프트_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\obj\Debug\net9.0\18111.마인크래프트_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\obj\Debug\net9.0\18111.마인크래프트_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\obj\Debug\net9.0\18111.마인크래프트_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\obj\Debug\net9.0\18111.마인크래프트_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\obj\Debug\net9.0\18111.마인크래프트_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\obj\Debug\net9.0\18111.마인크래프트_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\obj\Debug\net9.0\refint\18111.마인크래프트_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\obj\Debug\net9.0\18111.마인크래프트_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\obj\Debug\net9.0\18111.마인크래프트_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\18111.마인크래프트\18111.마인크래프트_C#\obj\Debug\net9.0\ref\18111.마인크래프트_C#.dll

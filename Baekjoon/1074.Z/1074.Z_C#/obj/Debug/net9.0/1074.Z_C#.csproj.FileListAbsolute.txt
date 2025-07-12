@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\bin\Debug\net9.0\1074.Z_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\bin\Debug\net9.0\1074.Z_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\bin\Debug\net9.0\1074.Z_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\bin\Debug\net9.0\1074.Z_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\bin\Debug\net9.0\1074.Z_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\obj\Debug\net9.0\1074.Z_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\obj\Debug\net9.0\1074.Z_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\obj\Debug\net9.0\1074.Z_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\obj\Debug\net9.0\1074.Z_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\obj\Debug\net9.0\1074.Z_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\obj\Debug\net9.0\1074.Z_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\obj\Debug\net9.0\refint\1074.Z_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\obj\Debug\net9.0\1074.Z_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\obj\Debug\net9.0\1074.Z_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\1074.Z\1074.Z_C#\obj\Debug\net9.0\ref\1074.Z_C#.dll

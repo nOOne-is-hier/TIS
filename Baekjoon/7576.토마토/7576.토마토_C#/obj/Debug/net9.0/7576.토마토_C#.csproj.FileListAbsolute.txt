@@ -1,0 +1,15 @@
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\bin\Debug\net9.0\7576.토마토_C#.exe
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\bin\Debug\net9.0\7576.토마토_C#.deps.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\bin\Debug\net9.0\7576.토마토_C#.runtimeconfig.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\bin\Debug\net9.0\7576.토마토_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\bin\Debug\net9.0\7576.토마토_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\obj\Debug\net9.0\7576.토마토_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\obj\Debug\net9.0\7576.토마토_C#.AssemblyInfoInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\obj\Debug\net9.0\7576.토마토_C#.AssemblyInfo.cs
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\obj\Debug\net9.0\7576.토마토_C#.csproj.CoreCompileInputs.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\obj\Debug\net9.0\7576.토마토_C#.sourcelink.json
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\obj\Debug\net9.0\7576.토마토_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\obj\Debug\net9.0\refint\7576.토마토_C#.dll
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\obj\Debug\net9.0\7576.토마토_C#.pdb
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\obj\Debug\net9.0\7576.토마토_C#.genruntimeconfig.cache
+C:\Users\lasni\Desktop\TIL\APS\Baekjoon\7576.토마토\7576.토마토_C#\obj\Debug\net9.0\ref\7576.토마토_C#.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11286.절댓값_힙_C#", "11286.절댓값_힙_C#.csproj", "{177C4F31-B785-B604-1254-AFE49FB73C41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{177C4F31-B785-B604-1254-AFE49FB73C41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{177C4F31-B785-B604-1254-AFE49FB73C41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{177C4F31-B785-B604-1254-AFE49FB73C41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{177C4F31-B785-B604-1254-AFE49FB73C41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E67AB99-A4DC-40D2-AF6C-9BBEA36A57E5}
+	EndGlobalSection
+EndGlobal

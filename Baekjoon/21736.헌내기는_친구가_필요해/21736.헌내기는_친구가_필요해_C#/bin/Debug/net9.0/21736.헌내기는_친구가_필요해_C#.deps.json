@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "21736.헌내기는_친구가_필요해_C#/1.0.0": {
+        "runtime": {
+          "21736.헌내기는_친구가_필요해_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "21736.헌내기는_친구가_필요해_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

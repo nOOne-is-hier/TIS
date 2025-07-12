@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "1389.케빈_베이컨의_6단계_법칙_C#/1.0.0": {
+        "runtime": {
+          "1389.케빈_베이컨의_6단계_법칙_C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "1389.케빈_베이컨의_6단계_법칙_C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
