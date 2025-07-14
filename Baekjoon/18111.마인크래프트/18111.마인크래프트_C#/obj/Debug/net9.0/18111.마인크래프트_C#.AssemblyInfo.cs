@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("18111.마인크래프트_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dab3e03127bd13120c392326f9f0fd9dc0ab2487")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f09479af9c6e0284557c93e43fcb85bf28ce982")]
 [assembly: System.Reflection.AssemblyProductAttribute("18111.마인크래프트_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("18111.마인크래프트_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

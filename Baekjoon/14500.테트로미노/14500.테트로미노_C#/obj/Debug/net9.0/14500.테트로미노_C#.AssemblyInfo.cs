@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("14500.테트로미노_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53ddbacaacc0bf472f938e94aaad4e4b417180f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f09479af9c6e0284557c93e43fcb85bf28ce982")]
 [assembly: System.Reflection.AssemblyProductAttribute("14500.테트로미노_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("14500.테트로미노_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
