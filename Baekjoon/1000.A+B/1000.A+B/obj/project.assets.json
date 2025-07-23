@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\1000.A+B\\1000.A+B\\1000.A+B.csproj",
+      "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\1000.A+B\\1000.A+B\\1000.A+B.csproj",
       "projectName": "1000.A+B",
-      "projectPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\1000.A+B\\1000.A+B\\1000.A+B.csproj",
+      "projectPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\1000.A+B\\1000.A+B\\1000.A+B.csproj",
       "packagesPath": "C:\\Users\\lasni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\1000.A+B\\1000.A+B\\obj\\",
+      "outputPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\1000.A+B\\1000.A+B\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lasni\\AppData\\Roaming\\NuGet\\NuGet.Config"
