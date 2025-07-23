@@ -1,0 +1,22 @@
+-- create.sql (DB 초기화용)
+DROP DATABASE IF EXISTS playground;
+
+
+CREATE DATABASE playground;
+
+
+USE playground;
+
+
+DROP TABLE IF EXISTS DOCTOR;
+
+
+CREATE TABLE
+    DOCTOR (
+        DR_NAME VARCHAR(20) NOT NULL,
+        DR_ID VARCHAR(10) NOT NULL,
+        LCNS_NO VARCHAR(30) NOT NULL,
+        HIRE_YMD DATE NOT NULL,
+        MCDP_CD VARCHAR(6),
+        TLNO VARCHAR(50)
+    )
