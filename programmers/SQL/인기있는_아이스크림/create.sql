@@ -1,0 +1,19 @@
+-- create.sql (DB 초기화용)
+DROP DATABASE IF EXISTS playground;
+
+
+CREATE DATABASE playground;
+
+
+USE playground;
+
+
+DROP TABLE IF EXISTS FIRST_HALF;
+
+
+CREATE TABLE
+    FIRST_HALF (
+        SHIPMENT_ID INT NOT NULL,
+        FLAVOR VARCHAR(100) NOT NULL,
+        TOTAL_ORDER INT NOT NULL
+    );

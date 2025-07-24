@@ -1,0 +1,21 @@
+-- create.sql (DB 초기화용)
+DROP DATABASE IF EXISTS playground;
+
+
+CREATE DATABASE playground;
+
+
+USE playground;
+
+
+DROP TABLE IF EXISTS BOOK;
+
+
+CREATE TABLE
+    BOOK (
+        BOOK_ID INT NOT NULL,
+        CATEGORY VARCHAR(100) NOT NULL,
+        AUTHOR_ID INT NOT NULL,
+        PRICE INT NOT NULL,
+        PUBLISHED_DATE DATE NOT NULL
+    );

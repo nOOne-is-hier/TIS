@@ -1,0 +1,21 @@
+-- create.sql (DB 초기화용)
+DROP DATABASE IF EXISTS playground;
+
+
+CREATE DATABASE playground;
+
+
+USE playground;
+
+
+DROP TABLE IF EXISTS PATIENT;
+
+
+CREATE TABLE
+    PATIENT (
+        PT_NO VARCHAR(10) NOT NULL,
+        PT_NAME VARCHAR(20) NOT NULL,
+        GEND_CD VARCHAR(1) NOT NULL,
+        AGE INT NOT NULL,
+        TLNO VARCHAR(50)
+    );

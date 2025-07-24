@@ -1,0 +1,8 @@
+-- solution.sql (정답 쿼리 작성용)
+SELECT
+    FLAVOR
+FROM
+    FIRST_HALF
+ORDER BY
+    TOTAL_ORDER DESC,
+    SHIPMENT_ID ASC;
