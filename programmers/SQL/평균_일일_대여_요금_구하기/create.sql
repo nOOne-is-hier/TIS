@@ -1,0 +1,20 @@
+-- create.sql (DB 초기화용)
+DROP DATABASE IF EXISTS playground;
+
+
+CREATE DATABASE playground;
+
+
+USE playground;
+
+
+DROP TABLE IF EXISTS CAR_RENTAL_COMPANY_CAR;
+
+
+CREATE TABLE
+    CAR_RENTAL_COMPANY_CAR (
+        CAR_ID INT NOT NULL,
+        CAR_TYPE VARCHAR(255) NOT NULL,
+        DAILY_FEE INT NOT NULL,
+        OPTIONS VARCHAR(255) NOT NULL
+    );

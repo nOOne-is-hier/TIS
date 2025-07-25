@@ -1,0 +1,7 @@
+-- solution.sql (정답 쿼리 작성용)
+SELECT
+    ROUND(AVG(DAILY_FEE)) AS AVERAGE_FEE
+FROM
+    CAR_RENTAL_COMPANY_CAR
+WHERE
+    CAR_TYPE = 'SUV';
