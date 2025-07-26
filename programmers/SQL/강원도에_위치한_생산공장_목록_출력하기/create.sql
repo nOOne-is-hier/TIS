@@ -1,0 +1,20 @@
+-- create.sql (DB 초기화용)
+DROP DATABASE IF EXISTS playground;
+
+
+CREATE DATABASE playground;
+
+
+USE playground;
+
+
+DROP TABLE IF EXISTS FOOD_FACTORY;
+
+
+CREATE TABLE
+    FOOD_FACTORY (
+        FACTORY_ID VARCHAR(10) NOT NULL,
+        FACTORY_NAME VARCHAR(50) NOT NULL,
+        ADDRESS VARCHAR(100) NOT NULL,
+        TLNO VARCHAR(20)
+    );

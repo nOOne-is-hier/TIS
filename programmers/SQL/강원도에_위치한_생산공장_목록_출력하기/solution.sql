@@ -1,0 +1,11 @@
+-- solution.sql (정답 쿼리 작성용)
+SELECT
+    FACTORY_ID,
+    FACTORY_NAME,
+    ADDRESS
+FROM
+    FOOD_FACTORY
+WHERE
+    ADDRESS LIKE '%강원도%'
+ORDER BY
+    FACTORY_ID ASC;
