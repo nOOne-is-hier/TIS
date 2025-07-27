@@ -1,0 +1,21 @@
+-- create.sql (DB 초기화용)
+DROP DATABASE IF EXISTS playground;
+
+
+CREATE DATABASE playground;
+
+
+USE playground;
+
+
+DROP TABLE IF EXISTS MEMBER_PROFILE;
+
+
+CREATE TABLE
+    MEMBER_PROFILE (
+        MEMBER_ID VARCHAR(100) NOT NULL,
+        MEMBER_NAME VARCHAR(50) NOT NULL,
+        TLNO VARCHAR(50),
+        GENDER VARCHAR(1),
+        DATE_OF_BIRTH DATE
+    );
