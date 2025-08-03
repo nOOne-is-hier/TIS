@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2475.검증수_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+930d1d6e509dd8c79f7e5742ee53ffa10d654aa4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ef4ee9c3e84935121a0cb32e7b3b2ac28ba1d79")]
 [assembly: System.Reflection.AssemblyProductAttribute("2475.검증수_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2475.검증수_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
