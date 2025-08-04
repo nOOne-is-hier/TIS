@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2741.N_찍기_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+930d1d6e509dd8c79f7e5742ee53ffa10d654aa4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a61f9f50b6affe8ebc224ef4f40c3c9e9f40cb95")]
 [assembly: System.Reflection.AssemblyProductAttribute("2741.N_찍기_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2741.N_찍기_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

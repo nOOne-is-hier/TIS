@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2438.별_찍기_-_1\\2438.별_찍기_-_1\\2438.별_찍기_-_1.csproj",
+      "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2438.별_찍기_-_1\\2438.별_찍기_-_1\\2438.별_찍기_-_1.csproj",
       "projectName": "2438.별_찍기_-_1",
-      "projectPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2438.별_찍기_-_1\\2438.별_찍기_-_1\\2438.별_찍기_-_1.csproj",
+      "projectPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2438.별_찍기_-_1\\2438.별_찍기_-_1\\2438.별_찍기_-_1.csproj",
       "packagesPath": "C:\\Users\\lasni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2438.별_찍기_-_1\\2438.별_찍기_-_1\\obj\\",
+      "outputPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2438.별_찍기_-_1\\2438.별_찍기_-_1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lasni\\AppData\\Roaming\\NuGet\\NuGet.Config"

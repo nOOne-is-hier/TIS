@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2741.N_찍기\\2741.N_찍기_C#\\2741.N_찍기_C#.csproj": {}
+    "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2741.N_찍기\\2741.N_찍기_C#\\2741.N_찍기_C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2741.N_찍기\\2741.N_찍기_C#\\2741.N_찍기_C#.csproj": {
+    "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2741.N_찍기\\2741.N_찍기_C#\\2741.N_찍기_C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2741.N_찍기\\2741.N_찍기_C#\\2741.N_찍기_C#.csproj",
+        "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2741.N_찍기\\2741.N_찍기_C#\\2741.N_찍기_C#.csproj",
         "projectName": "2741.N_찍기_C#",
-        "projectPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2741.N_찍기\\2741.N_찍기_C#\\2741.N_찍기_C#.csproj",
+        "projectPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2741.N_찍기\\2741.N_찍기_C#\\2741.N_찍기_C#.csproj",
         "packagesPath": "C:\\Users\\lasni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2741.N_찍기\\2741.N_찍기_C#\\obj\\",
+        "outputPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2741.N_찍기\\2741.N_찍기_C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lasni\\AppData\\Roaming\\NuGet\\NuGet.Config"
