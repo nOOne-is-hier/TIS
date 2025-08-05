@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2798.블랙잭\\2798.블랙잭_C#\\2798.블랙잭_C#.csproj": {}
+    "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2798.블랙잭\\2798.블랙잭_C#\\2798.블랙잭_C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2798.블랙잭\\2798.블랙잭_C#\\2798.블랙잭_C#.csproj": {
+    "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2798.블랙잭\\2798.블랙잭_C#\\2798.블랙잭_C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2798.블랙잭\\2798.블랙잭_C#\\2798.블랙잭_C#.csproj",
+        "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2798.블랙잭\\2798.블랙잭_C#\\2798.블랙잭_C#.csproj",
         "projectName": "2798.블랙잭_C#",
-        "projectPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2798.블랙잭\\2798.블랙잭_C#\\2798.블랙잭_C#.csproj",
+        "projectPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2798.블랙잭\\2798.블랙잭_C#\\2798.블랙잭_C#.csproj",
         "packagesPath": "C:\\Users\\lasni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\2798.블랙잭\\2798.블랙잭_C#\\obj\\",
+        "outputPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\2798.블랙잭\\2798.블랙잭_C#\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\lasni\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\lasni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -59,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
