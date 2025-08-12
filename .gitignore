@@ -2,21 +2,33 @@
 .vscode/
 .idea/
 
-# Build / Exec
+# Build / Exec artifacts (exclude)
+main
 main.exe
+a.out
 *.exe
-*.out
 *.class
 *.o
-*.pyc
+*.obj
 __pycache__/
+*.pyc
 
-# Input/Output
-output.txt
+# Runtime outputs (exclude)
+out/
 *.log
+output.txt
+
+# Keep problem I/O & scripts (include)
+# - 전역 *.out 무시 규칙이 없다면 아래 두 줄은 안전하지만,
+#   혹시 위에 *.out 을 추가한다면 이 예외를 반드시 유지하세요.
+!tests/*.in
+!tests/*.out
+# input.txt 는 버전에 포함 (무시하지 않음)
+# run.sh 도 버전에 포함 (무시하지 않음)
 
 # System / Temp
 .DS_Store
 Thumbs.db
 *~
 *.swp
+*.tmp
