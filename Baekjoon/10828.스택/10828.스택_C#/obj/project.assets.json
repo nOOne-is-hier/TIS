@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\10828.스택\\10828.스택_C#\\10828.스택_C#.csproj",
+      "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\10828.스택\\10828.스택_C#\\10828.스택_C#.csproj",
       "projectName": "10828.스택_C#",
-      "projectPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\10828.스택\\10828.스택_C#\\10828.스택_C#.csproj",
+      "projectPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\10828.스택\\10828.스택_C#\\10828.스택_C#.csproj",
       "packagesPath": "C:\\Users\\lasni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\10828.스택\\10828.스택_C#\\obj\\",
+      "outputPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\10828.스택\\10828.스택_C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lasni\\AppData\\Roaming\\NuGet\\NuGet.Config"

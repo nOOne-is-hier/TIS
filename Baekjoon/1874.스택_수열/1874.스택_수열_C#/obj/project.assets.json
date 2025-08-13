@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\1874.스택_수열\\1874.스택_수열_C#\\1874.스택_수열_C#.csproj",
+      "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\1874.스택_수열\\1874.스택_수열_C#\\1874.스택_수열_C#.csproj",
       "projectName": "1874.스택_수열_C#",
-      "projectPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\1874.스택_수열\\1874.스택_수열_C#\\1874.스택_수열_C#.csproj",
+      "projectPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\1874.스택_수열\\1874.스택_수열_C#\\1874.스택_수열_C#.csproj",
       "packagesPath": "C:\\Users\\lasni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\1874.스택_수열\\1874.스택_수열_C#\\obj\\",
+      "outputPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\1874.스택_수열\\1874.스택_수열_C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lasni\\AppData\\Roaming\\NuGet\\NuGet.Config"
