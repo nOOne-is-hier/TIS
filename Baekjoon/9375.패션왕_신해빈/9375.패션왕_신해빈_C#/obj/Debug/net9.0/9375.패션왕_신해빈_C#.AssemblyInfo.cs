@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("9375.패션왕_신해빈_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+427a73ae877a46cedf9858884e4c2dc9f3983f6c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+871551766a70354b48c7ac0fa32212c54a672b9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("9375.패션왕_신해빈_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("9375.패션왕_신해빈_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

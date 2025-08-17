@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\9375.패션왕_신해빈\\9375.패션왕_신해빈_C#\\9375.패션왕_신해빈_C#.csproj",
+      "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\9375.패션왕_신해빈\\9375.패션왕_신해빈_C#\\9375.패션왕_신해빈_C#.csproj",
       "projectName": "9375.패션왕_신해빈_C#",
-      "projectPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\9375.패션왕_신해빈\\9375.패션왕_신해빈_C#\\9375.패션왕_신해빈_C#.csproj",
+      "projectPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\9375.패션왕_신해빈\\9375.패션왕_신해빈_C#\\9375.패션왕_신해빈_C#.csproj",
       "packagesPath": "C:\\Users\\lasni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\9375.패션왕_신해빈\\9375.패션왕_신해빈_C#\\obj\\",
+      "outputPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\9375.패션왕_신해빈\\9375.패션왕_신해빈_C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lasni\\AppData\\Roaming\\NuGet\\NuGet.Config"

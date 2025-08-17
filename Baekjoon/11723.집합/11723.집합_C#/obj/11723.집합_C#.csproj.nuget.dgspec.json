@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\11723.집합\\11723.집합_C#\\11723.집합_C#.csproj": {}
+    "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\11723.집합\\11723.집합_C#\\11723.집합_C#.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\11723.집합\\11723.집합_C#\\11723.집합_C#.csproj": {
+    "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\11723.집합\\11723.집합_C#\\11723.집합_C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\11723.집합\\11723.집합_C#\\11723.집합_C#.csproj",
+        "projectUniqueName": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\11723.집합\\11723.집합_C#\\11723.집합_C#.csproj",
         "projectName": "11723.집합_C#",
-        "projectPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\11723.집합\\11723.집합_C#\\11723.집합_C#.csproj",
+        "projectPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\11723.집합\\11723.집합_C#\\11723.집합_C#.csproj",
         "packagesPath": "C:\\Users\\lasni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lasni\\Desktop\\TIL\\APS\\Baekjoon\\11723.집합\\11723.집합_C#\\obj\\",
+        "outputPath": "C:\\Users\\lasni\\Desktop\\TIS\\Baekjoon\\11723.집합\\11723.집합_C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lasni\\AppData\\Roaming\\NuGet\\NuGet.Config"
