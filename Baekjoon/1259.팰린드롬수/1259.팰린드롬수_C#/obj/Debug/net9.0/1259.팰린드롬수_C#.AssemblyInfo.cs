@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1259.팰린드롬수_C#")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76edb4deb715b3370dc110ae8453bec9423832c9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+830c3001a5180625bba38174faa71e62725d960c")]
 [assembly: System.Reflection.AssemblyProductAttribute("1259.팰린드롬수_C#")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1259.팰린드롬수_C#")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
